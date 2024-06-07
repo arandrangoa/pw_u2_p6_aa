@@ -1,5 +1,9 @@
 <template>
-  <Contador></Contador>
+<img src="./assets/logo.png" alt="No existe">
+  <Contador titulo="Estudiante"/>
+  <Contador titulo="Profesor"/>
+
+
 </template>
 
 <script>
